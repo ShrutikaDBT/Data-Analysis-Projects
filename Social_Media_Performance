@@ -1,0 +1,49 @@
+**Objective**:
+This project performs Exploratory Data Analysis (EDA) on a Social Media Performance dataset sourced from Kaggle.  
+The objective is to analyze engagement trends, content performance, and audience interaction patterns using Python.
+
+## 🛠️ Tools & Libraries Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Google Colab
+
+
+## 📂 Dataset
+
+The dataset contains information related to social media posts including:
+- Post Date & Time
+- Likes
+- Comments
+- Shares
+- Engagement metrics
+- Content type
+
+(Source: Kaggle)
+
+
+## 🔎 Key Analysis Performed
+
+✔️ Data Cleaning  
+✔️ Handling Missing Values  
+✔️ Handling Categorical Values
+✔️ Correlation Analysis
+
+
+## 📊 Visualizations Included
+
+-Heatmap (Correlation Matrix)
+-Bar Plot
+-Count Plot
+-Pie Chart
+-Pair Plot
+
+## 📈 Key Insights
+
+- Strong correlation observed between likes, comments, views and shares
+-Which Platform generates high engagement rates
+-Certain content types generate higher engagement
+
